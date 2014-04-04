@@ -1,4 +1,4 @@
 Mugga
 =====
 
-Elevate Mugga to remebered hero status.
+Elevate Mugga to remembered hero status.
