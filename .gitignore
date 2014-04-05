@@ -1,0 +1,11 @@
+# build directories
+/target
+/bin
+
+# eclipse files
+.classpath
+.settings/
+.project
+
+# sbt build files
+.cache
